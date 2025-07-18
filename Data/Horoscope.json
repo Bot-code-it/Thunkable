@@ -1,0 +1,122 @@
+{
+  "Aries": {
+    "intro": "Aries, the first sign of the zodiac, is known for their fiery spirit, boundless energy, and unstoppable drive.",
+    "element": "Fire",
+    "rulingPlanet": "Mars",
+    "positiveTraits": ["Energetic", "Courageous", "Confident", "Enthusiastic"],
+    "negativeTraits": ["Impulsive", "Impatient", "Short-tempered", "Aggressive"],
+    "luckyNumber": 9,
+    "luckyColor": "Red",
+    "description": "Natural-born leaders, Aries are bold and ambitious. They dive headfirst into challenges and are fiercely competitive."
+  },
+  "Taurus": {
+    "intro": "Taurus is steady, loyal, and deeply connected to the pleasures of life, valuing comfort and security above all.",
+    "element": "Earth",
+    "rulingPlanet": "Venus",
+    "positiveTraits": ["Reliable", "Patient", "Practical", "Devoted"],
+    "negativeTraits": ["Stubborn", "Possessive", "Uncompromising"],
+    "luckyNumber": 6,
+    "luckyColor": "Green",
+    "description": "Taurus loves comfort, beauty, and stability. They’re dependable and value loyalty and security in life."
+  },
+  "Gemini": {
+    "intro": "Gemini, the sign of the twins, thrives on variety, conversation, and intellectual exploration.",
+    "element": "Air",
+    "rulingPlanet": "Mercury",
+    "positiveTraits": ["Adaptable", "Curious", "Witty", "Communicative"],
+    "negativeTraits": ["Nervous", "Inconsistent", "Indecisive"],
+    "luckyNumber": 5,
+    "luckyColor": "Yellow",
+    "description": "Quick-witted and expressive, Geminis thrive on new ideas and variety. They’re social butterflies who love conversation."
+  },
+  "Cancer": {
+    "intro": "Cancer, ruled by the moon, is deeply intuitive and emotionally driven, cherishing family and close bonds.",
+    "element": "Water",
+    "rulingPlanet": "Moon",
+    "positiveTraits": ["Loyal", "Empathetic", "Nurturing", "Protective"],
+    "negativeTraits": ["Moody", "Pessimistic", "Insecure"],
+    "luckyNumber": 2,
+    "luckyColor": "Silver",
+    "description": "Deeply intuitive and emotional, Cancer is the homebody of the zodiac, cherishing family and close relationships."
+  },
+  "Leo": {
+    "intro": "Leo shines like the sun, radiating charisma, creativity, and an undeniable zest for life.",
+    "element": "Fire",
+    "rulingPlanet": "Sun",
+    "positiveTraits": ["Confident", "Generous", "Creative", "Charismatic"],
+    "negativeTraits": ["Arrogant", "Stubborn", "Attention-seeking"],
+    "luckyNumber": 1,
+    "luckyColor": "Gold",
+    "description": "Leos are natural performers who love the spotlight. They’re warm-hearted, loyal, and love to inspire others."
+  },
+  "Virgo": {
+    "intro": "Virgo is practical, meticulous, and devoted to serving others, always seeking perfection in the details.",
+    "element": "Earth",
+    "rulingPlanet": "Mercury",
+    "positiveTraits": ["Analytical", "Meticulous", "Practical", "Reliable"],
+    "negativeTraits": ["Overcritical", "Perfectionist", "Worrier"],
+    "luckyNumber": 5,
+    "luckyColor": "Navy Blue",
+    "description": "Virgos are detail-oriented and practical, with a strong sense of duty. They excel at solving problems and helping others."
+  },
+  "Libra": {
+    "intro": "Libra seeks harmony and balance in all aspects of life, drawn to beauty, art, and meaningful connections.",
+    "element": "Air",
+    "rulingPlanet": "Venus",
+    "positiveTraits": ["Diplomatic", "Charming", "Fair-minded", "Social"],
+    "negativeTraits": ["Indecisive", "Avoids confrontations", "Self-indulgent"],
+    "luckyNumber": 6,
+    "luckyColor": "Pink",
+    "description": "Lovers of harmony and beauty, Libras seek balance in all things. They’re social and value relationships highly."
+  },
+  "Scorpio": {
+    "intro": "Scorpio is intense and mysterious, driven by passion and an unyielding willpower.",
+    "element": "Water",
+    "rulingPlanet": "Pluto",
+    "positiveTraits": ["Passionate", "Resourceful", "Brave", "Determined"],
+    "negativeTraits": ["Jealous", "Secretive", "Controlling"],
+    "luckyNumber": 9,
+    "luckyColor": "Maroon",
+    "description": "Scorpios are intense, mysterious, and highly intuitive. They love deeply and are fiercely loyal."
+  },
+  "Sagittarius": {
+    "intro": "Sagittarius is adventurous and philosophical, driven by a need for exploration and truth.",
+    "element": "Fire",
+    "rulingPlanet": "Jupiter",
+    "positiveTraits": ["Optimistic", "Adventurous", "Philosophical", "Honest"],
+    "negativeTraits": ["Impatient", "Tactless", "Overconfident"],
+    "luckyNumber": 3,
+    "luckyColor": "Purple",
+    "description": "Sagittarians are free spirits who crave adventure and truth. They’re enthusiastic and love exploring new horizons."
+  },
+  "Capricorn": {
+    "intro": "Capricorn is disciplined, ambitious, and steadfast, always working toward long-term success.",
+    "element": "Earth",
+    "rulingPlanet": "Saturn",
+    "positiveTraits": ["Disciplined", "Responsible", "Practical", "Ambitious"],
+    "negativeTraits": ["Pessimistic", "Stubborn", "Rigid"],
+    "luckyNumber": 8,
+    "luckyColor": "Black",
+    "description": "Capricorns are disciplined and hardworking. They value tradition and are determined to achieve their goals."
+  },
+  "Aquarius": {
+    "intro": "Aquarius is innovative and forward-thinking, valuing freedom and individuality above all else.",
+    "element": "Air",
+    "rulingPlanet": "Uranus",
+    "positiveTraits": ["Innovative", "Independent", "Humanitarian", "Intellectual"],
+    "negativeTraits": ["Aloof", "Unpredictable", "Detached"],
+    "luckyNumber": 4,
+    "luckyColor": "Electric Blue",
+    "description": "Aquarians are visionaries, always thinking ahead. They value freedom, innovation, and individuality."
+  },
+  "Pisces": {
+    "intro": "Pisces is compassionate and deeply intuitive, with an artistic spirit and vivid imagination.",
+    "element": "Water",
+    "rulingPlanet": "Neptune",
+    "positiveTraits": ["Compassionate", "Artistic", "Intuitive", "Gentle"],
+    "negativeTraits": ["Escapist", "Overly idealistic", "Indecisive"],
+    "luckyNumber": 7,
+    "luckyColor": "Sea Green",
+    "description": "Pisces are sensitive dreamers who feel deeply. They’re imaginative, empathetic, and often artistic."
+  }
+}
